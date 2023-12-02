@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/licode/static/js/main.0ae80233.js",
+    "static/media/victory_background.png": "/licode/static/media/victory_background.f8b1a732e7bcbaa61351.png",
+    "static/media/CodeEditorPreview.png": "/licode/static/media/CodeEditorPreview.404ad452c2b382eb3b86.png",
+    "static/media/BlueBackground.png": "/licode/static/media/BlueBackground.20bdb712478632ba59aa.png",
+    "static/media/defeat_background.png": "/licode/static/media/defeat_background.54520ac932ed9bdd294f.png",
+    "index.html": "/licode/index.html",
+    "main.0ae80233.js.map": "/licode/static/js/main.0ae80233.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.0ae80233.js"
+  ]
+}
