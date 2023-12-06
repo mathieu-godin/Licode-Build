@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/licode/static/css/main.c086e0db.css",
-    "main.js": "/licode/static/js/main.0f22d40c.js",
+    "main.js": "/licode/static/js/main.f4c9985d.js",
     "static/media/CodeEditorPreview.png": "/licode/static/media/CodeEditorPreview.404ad452c2b382eb3b86.png",
     "index.html": "/licode/index.html",
     "main.c086e0db.css.map": "/licode/static/css/main.c086e0db.css.map",
-    "main.0f22d40c.js.map": "/licode/static/js/main.0f22d40c.js.map"
+    "main.f4c9985d.js.map": "/licode/static/js/main.f4c9985d.js.map"
   },
   "entrypoints": [
     "static/css/main.c086e0db.css",
-    "static/js/main.0f22d40c.js"
+    "static/js/main.f4c9985d.js"
   ]
 }
